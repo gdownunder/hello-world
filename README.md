@@ -1,4 +1,4 @@
 # hello-world
 Test repository for hello world
-
-My name is Sindre, second year IT student learning git.
+My name is Sindre, second year IT student learning git
+New line added and another line removed ;)
